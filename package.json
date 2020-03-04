@@ -1,6 +1,6 @@
 {
   "name": "@dev-goodies/temp-id",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Small library to generate sequential timestamp-based unique ID's",
   "main": "index.js",
   "scripts": {
