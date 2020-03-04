@@ -1,0 +1,23 @@
+{
+  "name": "@dev-goodies/temp-id",
+  "version": "1.0.0",
+  "description": "Small library to generate sequential timestamp-based unique ID's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devgoodies/temp-id.git"
+  },
+  "keywords": [
+    "uid",
+    "id"
+  ],
+  "author": "@apercova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devgoodies/temp-id/issues"
+  },
+  "homepage": "https://github.com/devgoodies/temp-id#readme"
+}
