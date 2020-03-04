@@ -3,15 +3,15 @@ Small library to generate sequential timestamp-based unique ID's
 
 ### Install
 ```
-npm i temp-id
+npm i @dev-goodies/temp-id
 ```
 ### Getting stared
 ```javascript
-const tempid = require('temp-id');
+const tempid = require('@dev-goodies/temp-id');
   or ..
-import * as tempid from 'temp-id';
+import * as tempid from '@dev-goodies/temp-id';
   or ..
-import { UID, Int32UID } from 'temp-id';
+import { UID, Int32UID } from '@dev-goodies/temp-id';
 ```
 
 ### `UID()`
